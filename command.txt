@@ -1,0 +1,1 @@
+luna-send -i palm://com.webos.appInstallService/dev/install '{"id":"com.elion.app.plugin","ipkUrl":"/tmp/usb/sda/sda1/com.elion.app.plugin_0.0.13_all.ipk","subscribe":true}'
